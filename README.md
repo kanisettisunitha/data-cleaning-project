@@ -13,3 +13,6 @@ This project focuses on cleaning raw datasets and generating meaningful visual i
 - Matplotlib
 - Seaborn
 ## 📂 Project Structure
+-data.csv
+-main.py
+-requirements.txt
